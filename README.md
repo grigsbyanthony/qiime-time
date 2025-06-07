@@ -1,5 +1,3 @@
-# QIIME2 Analysis Pipeline
-
 ## Overview
 
 This Python script provides an automated, interactive workflow for analyzing microbiome data using QIIME2. The script guides users through a complete analysis pipeline from raw sequence data to publication-ready visualizations and exportable data formats, with built-in file existence checks to enable efficient reruns.
